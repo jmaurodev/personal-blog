@@ -3,7 +3,7 @@ module.exports = {
     title: ``,
     author: {
       name: `Jorge Mauro`,
-      summary: `que atua com desenvolvimento de software no Rio de Janeiro.`,
+      summary: ``,
     },
     description: `A starter blog demonstrating what Gatsby can do.`,
     siteUrl: `https://gatsby-starter-blog-demo.netlify.app/`,
